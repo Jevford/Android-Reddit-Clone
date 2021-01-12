@@ -1,7 +1,7 @@
 # Android-Reddit-Clone
 
 This project was updated from a previous course taken at UCI.  The program runs within an android emulator using IntelliJ for testing purposes.
-The goal of this project was to create a mobile Reddit Clone with CRUD functionality using Java, Java SDKs, and Google Firebase.
+The goal of this project was to create a mobile Reddit Clone with CRUD functionality using Java, Android SDKs, and Google Firebase.
 
 ## Features:
 - Working mobile front-end that responds similarly to haptic touch feedback.
